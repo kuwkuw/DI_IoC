@@ -1,0 +1,8 @@
+C:\Users\Osiris\Dropbox\BSA\DependencyInjection&InversionofControl\CheckIsEnabledTestApp\CheckIsEnabledTestApp\bin\Debug\CheckIsEnabledTestApp.exe.config
+C:\Users\Osiris\Dropbox\BSA\DependencyInjection&InversionofControl\CheckIsEnabledTestApp\CheckIsEnabledTestApp\obj\Debug\CheckIsEnabledTestApp.csprojResolveAssemblyReference.cache
+C:\Users\Osiris\Dropbox\BSA\DependencyInjection&InversionofControl\CheckIsEnabledTestApp\CheckIsEnabledTestApp\bin\Debug\CheckIsEnabledTestApp.exe
+C:\Users\Osiris\Dropbox\BSA\DependencyInjection&InversionofControl\CheckIsEnabledTestApp\CheckIsEnabledTestApp\bin\Debug\CheckIsEnabledTestApp.pdb
+C:\Users\Osiris\Dropbox\BSA\DependencyInjection&InversionofControl\CheckIsEnabledTestApp\CheckIsEnabledTestApp\obj\Debug\CheckIsEnabledTestApp.exe
+C:\Users\Osiris\Dropbox\BSA\DependencyInjection&InversionofControl\CheckIsEnabledTestApp\CheckIsEnabledTestApp\obj\Debug\CheckIsEnabledTestApp.pdb
+C:\Users\Osiris\Dropbox\BSA\DependencyInjection&InversionofControl\CheckIsEnabledTestApp\CheckIsEnabledTestApp\bin\Debug\Ninject.dll
+C:\Users\Osiris\Dropbox\BSA\DependencyInjection&InversionofControl\CheckIsEnabledTestApp\CheckIsEnabledTestApp\bin\Debug\Ninject.xml
